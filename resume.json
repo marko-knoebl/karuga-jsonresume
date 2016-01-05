@@ -5,7 +5,7 @@
     "picture": "",
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
-    "website": "karuga.eu",
+    "website": "http://karuga.eu",
     "summary": "Software engineer and teacher from Vienna, Austria.",
     "location": {
       "address": "Baumgarten 21",
@@ -29,7 +29,7 @@
       "position": "Middle school math teacher",
       "startDate": "2015-10-09",
       "endDate": "present",
-      "website": "www.nms-kittsee.at"
+      "website": "http://www.nms-kittsee.at"
     },
     {
       "company": "self-employed",
@@ -48,13 +48,13 @@
       "position": "Secondary school teacher",
       "startDate": "2013-09-01",
       "endDate": "2014-08-26",
-      "website": "grg3.at",
+      "website": "http://grg3.at",
       "summary": "Secondary school teacher for Mathematics and Geometry"
     },
     {
       "company": "Vienna Technical University",
       "position": "Teaching Assistant",
-      "website": "tuwien.ac.at",
+      "website": "https://tuwien.ac.at",
       "startDate": "2009-10-01",
       "endDate": "2012-02-29",
       "summary": "Teaching assistant for various university courses (\"Introduction to mathematical software\", \"Basics course for architecture\" and \"geometry and CAD\")"
@@ -64,7 +64,7 @@
     {
       "organization": "CISV",
       "position": "Youth Leader",
-      "website": "cisv.org",
+      "website": "http://cisv.org",
       "startDate": "2011-06",
       "endDate": "2015-04",
       "summary": "Leader / supervisor at international exchange programs in various countries (Italy, Finland, Canada, UK)"
@@ -72,7 +72,7 @@
     {
       "organization": "Bonfaremo",
       "position": "School aide",
-      "website": "bonfaremo.org",
+      "website": "http://bonfaremo.org",
       "startDate": "2013-02-01",
       "endDate": "2013-02-17",
       "summary": "Assisting at schools in Ngama (Kenya) and Kisangara (Tanzania)"
