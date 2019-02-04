@@ -25,24 +25,39 @@
   },
   "work": [
     {
+      "company": "self-employed",
+      "position": "IT Trainer",
+      "startDate": "2016-04-26",
+      "endDate": "jetzt",
+      "summary": "Trainer für IT-Kurse für Privatpersonen und Firmen",
+      "highlights": [
+        "React & Redux",
+        "HTML, CSS & JavaScript",
+        "Python Einsteiger & Fortgeschritten",
+        "Web-Entwicklung mit Python",
+        "Angular",
+        "Progressive Web Apps"
+      ]
+    },
+    {
+      "company": "PPEDV",
+      "position": "IT trainer",
+      "startDate": "2017-08",
+      "endDate": "2018-08",
+      "summary": "Trainer für IT-Kurse",
+      "website": "https://ppedv.de"
+    },
+    {
       "company": "selbstständig",
       "position": "Softwareentwickler",
       "startDate": "2014-04",
       "endDate": "heute",
       "summary": "Web-Entwicklung, Mathemische Algorithmen",
       "highlights": [
-        "Front-end Web-Entwicklung mit JavaScript, jQuery, WebGL, AngularJS, Bootstrap, Material Design",
-        "Back-end Web-Entwicklung mit Python, Django, nginx, AWS, Docker, node.js",
+        "Frontend Web-Entwicklung mit JavaScript, jQuery, WebGL, React.js",
+        "Backend Web-Entwicklung mit Python, Django, node.js",
         "Konzeption und Implementierung ausgereifter mathematischer Algorithmen"
       ]
-    },
-    {
-      "company": "SmartNinja",
-      "position": "IT Kursleiter",
-      "startDate": "2016-04-26",
-      "endDate": "heute",
-      "summary": "Kursleiter zu den Themen \"Web Entwicklung\" und \"Python Programmierung\"",
-      "website": "https://www.smartninja.org/"
     },
     {
       "company": "Signtime",
@@ -120,10 +135,6 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    },
-    {
-      "language": "French",
-      "fluency": "Intermediate"
     }
   ]
 }

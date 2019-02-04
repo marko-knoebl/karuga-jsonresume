@@ -5,7 +5,7 @@
     "picture": "",
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
-    "website": "http://karuga.eu",
+    "website": "https://karuga.eu",
     "location": {
       "address": "Aspangstraße 15/3",
       "postalCode": "1030",
@@ -25,6 +25,29 @@
   "work": [
     {
       "company": "self-employed",
+      "position": "IT trainer",
+      "startDate": "2016-04-26",
+      "endDate": "present",
+      "summary": "Instructor for IT courses for companies and individuals",
+      "highlights": [
+        "React and Redux",
+        "HTML, CSS & JavaScript",
+        "Python beginner & advanced",
+        "Web development with Python",
+        "Angular",
+        "Progressive Web Apps"
+      ]
+    },
+    {
+      "company": "PPEDV",
+      "position": "IT trainer",
+      "startDate": "2017-08",
+      "endDate": "2018-08",
+      "summary": "Instructor fo IT courses",
+      "website": "https://ppedv.de"
+    },
+    {
+      "company": "self-employed",
       "position": "Freelance developer",
       "startDate": "2014-04",
       "endDate": "present",
@@ -34,14 +57,6 @@
         "Back-end web development using Python, Django, nginx, AWS, Docker, node.js",
         "Development and implementation of sophisticated mathematical algorithms using Python, NumPy"
       ]
-    },
-    {
-      "company": "SmartNinja",
-      "position": "IT course instructor",
-      "startDate": "2016-04-26",
-      "endDate": "present",
-      "summary": "Instructor for courses on the topics \"Web Development\" and \"Python Development\"",
-      "website": "https://www.smartninja.org/"
     },
     {
       "company": "Signtime",
@@ -118,10 +133,6 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    },
-    {
-      "language": "French",
-      "fluency": "Intermediate"
     }
   ]
 }
