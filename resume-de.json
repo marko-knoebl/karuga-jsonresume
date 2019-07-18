@@ -5,8 +5,8 @@
     "picture": "",
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
-    "website": "http://karuga.eu",
-    "summary": "Softwareentwickler und Lehrer aus Wien",
+    "website": "https://karuga.eu",
+    "summary": "Softwareentwickler und Trainer aus Wien",
     "location": {
       "address": "Aspangstraße 15/3",
       "postalCode": "1030",
@@ -25,17 +25,16 @@
   },
   "work": [
     {
-      "company": "self-employed",
+      "company": "selbstständig",
       "position": "IT Trainer",
       "startDate": "2016-04-26",
       "endDate": "jetzt",
       "summary": "Trainer für IT-Kurse für Privatpersonen und Firmen",
       "highlights": [
         "React & Redux",
-        "HTML, CSS & JavaScript",
         "Python Einsteiger & Fortgeschritten",
-        "Web-Entwicklung mit Python",
-        "Angular",
+        "Data Science mit Python",
+        "HTML, CSS & JavaScript",
         "Progressive Web Apps"
       ]
     },
@@ -62,7 +61,7 @@
     {
       "company": "Signtime",
       "position": "Python Entwickler",
-      "startDate": "2017-11",
+      "startDate": "2016-11",
       "endDate": "2017-07-07",
       "summary": "Entwicklung von Erweiterung zu Autodesk Maya zur Erstellung von animierten 3D-Avataren für Gebärdensprache.",
       "website": "http://www.signtime.tv/"
@@ -120,9 +119,9 @@
   ],
   "education": [
     {
-      "institution": "Vienna Technical University",
-      "area": "Teacher training program in Mathematics and Descriptive Geometry",
-      "studyType": "Master",
+      "institution": "Teschnische Universität Wien",
+      "area": "Lehramtsstudium Mathematik und Darstellende Geometrie",
+      "studyType": "Magister",
       "startDate": "2006-09-22",
       "endDate": "2013-07-29"
     }

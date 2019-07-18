@@ -6,6 +6,7 @@
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
     "website": "https://karuga.eu",
+    "summary": "Software developer and trainer",
     "location": {
       "address": "Aspangstraße 15/3",
       "postalCode": "1030",
@@ -31,10 +32,9 @@
       "summary": "Instructor for IT courses for companies and individuals",
       "highlights": [
         "React and Redux",
-        "HTML, CSS & JavaScript",
         "Python beginner & advanced",
-        "Web development with Python",
-        "Angular",
+        "Python and data science",
+        "HTML, CSS & JavaScript",
         "Progressive Web Apps"
       ]
     },
@@ -61,8 +61,8 @@
     {
       "company": "Signtime",
       "position": "Python developer",
-      "startDate": "2017-11",
-      "endDate": "2017-07-07",
+      "startDate": "2016-11",
+      "endDate": "2018-07-07",
       "summary": "Development of extensions to Autodesk Maya to support the creation of 3D-animated sign language avatars.",
       "website": "http://www.signtime.tv/"
     },
