@@ -1,9 +1,20 @@
 const React = require("react");
 
-const Contact = ({ resume }) => (
+const texts = {
+  heading: {
+    en: "Contact",
+    de: "Kontakt"
+  },
+  phone: {
+    en: "Phone",
+    de: "Telefon"
+  }
+};
+
+const Contact = ({ resume, lang }) => (
   <section className="row resume-section contact">
     <div className="headings col-sm-3">
-      <h3>Contact</h3>
+      <h3>{texts.heading[lang]}</h3>
     </div>
     <div className="col-sm-9">
       <div className="row">
@@ -14,7 +25,7 @@ const Contact = ({ resume }) => (
           </div>
         </div>
         <div className="col-sm-6">
-          <strong>Phone</strong>
+          <strong>{texts.heading[lang]}</strong>
           <div className="phone">{resume.basics.phone}</div>
         </div>
         <div className="col-sm-6">

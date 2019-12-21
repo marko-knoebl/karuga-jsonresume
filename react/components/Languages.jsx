@@ -1,9 +1,16 @@
 const React = require("react");
 
-const Languages = ({ resume }) => (
+const texts = {
+  heading: {
+    en: "Languages",
+    de: "Sprachen"
+  }
+};
+
+const Languages = ({ resume, lang }) => (
   <section className="row resume-section languages">
     <div className="headings col-sm-3">
-      <h3>Languages</h3>
+      <h3>{texts.heading[lang]}</h3>
     </div>
     <div className="col-sm-9">
       <div className="row">

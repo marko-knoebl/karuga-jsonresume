@@ -1,5 +1,12 @@
 const React = require("react");
 
+const texts = {
+  heading: {
+    en: "Education",
+    de: "Ausbildung"
+  }
+};
+
 const EducationItem = ({ education }) => (
   <div className="col-sm-12">
     <h4 className="strike-through">
@@ -13,10 +20,10 @@ const EducationItem = ({ education }) => (
   </div>
 );
 
-const Education = ({ resume }) => (
+const Education = ({ resume, lang }) => (
   <section className="row resume-section education">
     <div className="headings col-sm-3">
-      <h3>Education</h3>
+      <h3>{texts.heading[lang]}</h3>
     </div>
     <div className="col-sm-9">
       <div className="row">

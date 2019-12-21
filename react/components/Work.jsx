@@ -1,6 +1,13 @@
 const React = require("react");
 
-const Occuppation = ({ occupation }) => (
+const texts = {
+  heading: {
+    en: "Work",
+    de: "Arbeit"
+  }
+};
+
+const Occuppation = ({ occupation, lang }) => (
   <div className="col-sm-12">
     <h4 className="strike-through">
       <span>{occupation.company}</span>
@@ -28,10 +35,10 @@ const Occuppation = ({ occupation }) => (
   </div>
 );
 
-const Work = ({ resume }) => (
+const Work = ({ resume, lang }) => (
   <section className="row resume-section work">
     <div className="headings col-sm-3">
-      <h3>Work</h3>
+      <h3>{texts.heading[lang]}</h3>
     </div>
     <div className="col-sm-9">
       <div className="row">

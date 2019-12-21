@@ -9,15 +9,15 @@ const Work = importJsx("./Work.jsx");
 const Education = importJsx("./Education.jsx");
 const Languages = importJsx("./Languages.jsx");
 
-const Resume = ({ resume }) => (
+const Resume = ({ resume, lang }) => (
   <div className="resume container">
-    <Header resume={resume} />
-    <Contact resume={resume} />
-    {resume.basics.summary && <AboutMe resume={resume} />}
-    <Profiles resume={resume} />
-    <Work resume={resume} />
-    <Education resume={resume} />
-    <Languages resume={resume} />
+    <Header resume={resume} lang={lang} />
+    <Contact resume={resume} lang={lang} />
+    {resume.basics.summary && <AboutMe resume={resume} lang={lang} />}
+    <Profiles resume={resume} lang={lang} />
+    <Work resume={resume} lang={lang} />
+    <Education resume={resume} lang={lang} />
+    <Languages resume={resume} lang={lang} />
   </div>
 );
 

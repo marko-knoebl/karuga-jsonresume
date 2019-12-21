@@ -1,6 +1,13 @@
 const React = require("react");
 
-const Profile = ({ profile }) => (
+const texts = {
+  heading: {
+    en: "Profiles",
+    de: "Profile"
+  }
+};
+
+const Profile = ({ profile, lang }) => (
   <div className="col-sm-6">
     <strong className="network">{profile.network}</strong>
     <div className="username">
@@ -11,10 +18,10 @@ const Profile = ({ profile }) => (
   </div>
 );
 
-const Profiles = ({ resume }) => (
+const Profiles = ({ resume, lang }) => (
   <section className="row resume-section profiles">
     <div className="headings col-sm-3">
-      <h3>Profiles</h3>
+      <h3>{texts.heading[lang]}</h3>
     </div>
     <div className="col-sm-9">
       <div className="row">
