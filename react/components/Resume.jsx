@@ -1,12 +1,13 @@
 const React = require("react");
+const importJsx = require("import-jsx");
 
-const Header = require("./Header.jsx");
-const Contact = require("./Contact.jsx");
-const AboutMe = require("./AboutMe.jsx");
-const Profiles = require("./Profiles.jsx");
-const Work = require("./Work.jsx");
-const Education = require("./Education.jsx");
-const Languages = require("./Languages.jsx");
+const Header = importJsx("./Header.jsx");
+const Contact = importJsx("./Contact.jsx");
+const AboutMe = importJsx("./AboutMe.jsx");
+const Profiles = importJsx("./Profiles.jsx");
+const Work = importJsx("./Work.jsx");
+const Education = importJsx("./Education.jsx");
+const Languages = importJsx("./Languages.jsx");
 
 const Resume = ({ resume }) => (
   <div className="resume container">

@@ -1,12 +1,9 @@
-const babelRegister = require("babel-register");
-
-babelRegister({ presets: ["react"] });
-
 const fs = require("fs");
 const React = require("react");
 const ReactDomServer = require("react-dom/server");
+const importJsx = require("import-jsx");
 
-const Resume = require("../react/components/Resume.jsx");
+const Resume = importJsx("../react/components/Resume.jsx");
 
 const resumeData = JSON.parse(
   fs.readFileSync("./resume.json", { encoding: "utf-8" })
