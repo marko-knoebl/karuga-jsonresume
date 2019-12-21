@@ -1,4 +1,6 @@
 {
+  "name": "@karuga/karuga-jsonresume",
+  "version": "1.0.0",
   "dependencies": {
     "import-jsx": "^3.0.0",
     "react": "^16.12.0",
