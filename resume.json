@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Marko Knöbl",
-    "label": "Software Engineer",
+    "label": "Software developer and trainer",
     "picture": "",
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
@@ -43,28 +43,28 @@
       "position": "IT trainer",
       "startDate": "2017-08",
       "endDate": "2018-08",
-      "summary": "Instructor fo IT courses",
+      "summary": "Instructor for IT courses",
       "website": "https://ppedv.de"
     },
     {
       "company": "self-employed",
       "position": "Freelance developer",
       "startDate": "2014-04",
-      "endDate": "present",
+      "endDate": "2018-04",
       "summary": "Web development, mathematical algorithms",
       "highlights": [
-        "Front-end web development using HTML5, JavaScript, jQuery, WebGL, Bootstrap, AngularJS",
-        "Back-end web development using Python, Django, nginx, AWS, Docker, node.js",
+        "Front-end web development using JavaScript, jQuery, WebGL, AngularJS, React.js",
+        "Back-end web development using Python, Django, node.js",
         "Development and implementation of sophisticated mathematical algorithms using Python, NumPy"
       ]
     },
     {
-      "company": "Signtime",
+      "company": "Sign Time GmbH",
       "position": "Python developer",
       "startDate": "2016-11",
-      "endDate": "2018-07-07",
+      "endDate": "2018-07",
       "summary": "Development of extensions to Autodesk Maya to support the creation of 3D-animated sign language avatars.",
-      "website": "http://www.signtime.tv/"
+      "website": "https://signtime.media/"
     },
     {
       "company": "NMS Kittsee",
