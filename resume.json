@@ -6,13 +6,13 @@
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
     "website": "https://karuga.eu",
-    "summary": "Software developer and trainer",
+    "summary": null,
     "location": {
       "address": "Aspangstraße 15/3",
       "postalCode": "1030",
-      "city": "Wien",
+      "city": "Vienna",
       "countryCode": "AT",
-      "region": "Wien",
+      "region": "Vienna",
       "dateOfBirth": "1988-04-26"
     },
     "profiles": [
