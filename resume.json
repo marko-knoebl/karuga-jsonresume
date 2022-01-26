@@ -8,7 +8,7 @@
     "website": "https://karuga.eu",
     "summary": null,
     "location": {
-      "address": "Aspangstraße 15/3",
+      "address": "Hörnesgasse 24/19",
       "postalCode": "1030",
       "city": "Vienna",
       "countryCode": "AT",
@@ -31,11 +31,10 @@
       "endDate": "present",
       "summary": "Instructor for IT courses for companies and individuals",
       "highlights": [
-        "React and Redux",
-        "Python beginner & advanced",
+        "React",
+        "Python beginner and advanced",
         "Python and data science",
-        "HTML, CSS & JavaScript",
-        "Progressive Web Apps"
+        "HTML, CSS and JavaScript"
       ]
     },
     {
@@ -49,12 +48,11 @@
     {
       "company": "self-employed",
       "position": "Freelance developer",
-      "startDate": "2014-04",
-      "endDate": "2018-04",
-      "summary": "Web development, mathematical algorithms",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Front-end web development, mathematical algorithms",
       "highlights": [
         "Front-end web development using JavaScript, jQuery, WebGL, AngularJS, React.js",
-        "Back-end web development using Python, Django, node.js",
         "Development and implementation of sophisticated mathematical algorithms using Python, NumPy"
       ]
     },
@@ -62,8 +60,8 @@
       "company": "Sign Time GmbH",
       "position": "Python developer",
       "startDate": "2016-11",
-      "endDate": "2018-07",
-      "summary": "Development of extensions to Autodesk Maya to support the creation of 3D-animated sign language avatars.",
+      "endDate": "2017-07",
+      "summary": "Development of Python extensions to Autodesk Maya to support the creation of 3D-animated sign language avatars",
       "website": "https://signtime.media/"
     },
     {

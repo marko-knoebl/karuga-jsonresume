@@ -8,7 +8,7 @@
     "website": "https://karuga.eu",
     "summary": null,
     "location": {
-      "address": "Aspangstraße 15/3",
+      "address": "Hörnesgasse 24/19",
       "postalCode": "1030",
       "city": "Wien",
       "countryCode": "AT",
@@ -31,11 +31,10 @@
       "endDate": "jetzt",
       "summary": "Trainer für IT-Kurse für Privatpersonen und Firmen",
       "highlights": [
-        "React & Redux",
-        "Python Einsteiger & Fortgeschritten",
-        "Data Science mit Python",
-        "HTML, CSS & JavaScript",
-        "Progressive Web Apps"
+        "React",
+        "Python Einsteiger und Fortgeschritten",
+        "Python und Data Science",
+        "HTML, CSS & JavaScript"
       ]
     },
     {
@@ -49,12 +48,11 @@
     {
       "company": "selbstständig",
       "position": "Softwareentwickler",
-      "startDate": "2014-04",
-      "endDate": "2018-04",
+      "startDate": "2014",
+      "endDate": "2017",
       "summary": "Web-Entwicklung, Mathemische Algorithmen",
       "highlights": [
         "Frontend Web-Entwicklung mit JavaScript, jQuery, WebGL, AngularJS, React.js",
-        "Backend Web-Entwicklung mit Python, Django, node.js",
         "Konzeption und Implementierung ausgereifter mathematischer Algorithmen mit Python und NumPy"
       ]
     },
@@ -63,16 +61,15 @@
       "position": "Python Entwickler",
       "startDate": "2016-11",
       "endDate": "2017-07",
-      "summary": "Entwicklung von Erweiterung zu Autodesk Maya zur Erstellung von animierten 3D-Avataren für Gebärdensprache.",
+      "summary": "Entwicklung von Python-Erweiterung zu Autodesk Maya zur Erstellung von animierten 3D-Avataren für Gebärdensprache.",
       "website": "https://signtime.media/"
     },
     {
       "company": "NMS Kittsee",
-      "position": "Mittelschullehrer",
+      "position": "Mittelschull-Mathematiklehrer (Karenzvertretung)",
       "startDate": "2015-10",
       "endDate": "2016-03",
-      "website": "http://www.nms-kittsee.at",
-      "summary": "Mathematiklehrer (Karenzvertretung)"
+      "website": "http://www.nms-kittsee.at"
     },
     {
       "company": "GRG3 Hagenmüllergasse",
