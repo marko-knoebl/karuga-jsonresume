@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Marko Knöbl",
-    "label": "Software developer and trainer",
+    "label": "IT trainer, developer",
     "picture": "",
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
@@ -25,10 +25,19 @@
   },
   "work": [
     {
+      "company": "Codecool Austria",
+      "position": "mentor",
+      "startDate": "2022-09-01",
+      "endDate": "2023-06-30",
+      "summary": "Mentoring in a coding school",
+      "highlights": ["React", "node.js", "MongoDB"],
+      "website": "https://codecool.at"
+    },
+    {
       "company": "self-employed",
       "position": "IT trainer",
       "startDate": "2016-04",
-      "endDate": "present",
+      "endDate": "2022-12",
       "summary": "Instructor for IT courses for companies and individuals",
       "highlights": [
         "React",

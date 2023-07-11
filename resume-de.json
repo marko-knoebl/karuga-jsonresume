@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Marko Knöbl",
-    "label": "Softwareentwickler und Trainer",
+    "label": "IT-Trainer und Softwareentwickler",
     "picture": "",
     "email": "marko.kn@gmail.com",
     "phone": "+43 680 2306962",
@@ -25,10 +25,19 @@
   },
   "work": [
     {
+      "company": "Codecool Austria",
+      "position": "Mentor",
+      "startDate": "2022-09-01",
+      "endDate": "2023-06-30",
+      "summary": "Mentor in einer Programmierschule",
+      "highlights": ["React", "node.js", "MongoDB"],
+      "website": "https://codecool.at"
+    },
+    {
       "company": "selbstständig",
       "position": "IT Trainer",
       "startDate": "2016-04",
-      "endDate": "jetzt",
+      "endDate": "2022-12",
       "summary": "Trainer für IT-Kurse für Privatpersonen und Firmen",
       "highlights": [
         "React",
@@ -66,7 +75,7 @@
     },
     {
       "company": "NMS Kittsee",
-      "position": "Mittelschull-Mathematiklehrer (Karenzvertretung)",
+      "position": "Mittelschul-Mathematiklehrer (Karenzvertretung)",
       "startDate": "2015-10",
       "endDate": "2016-03",
       "website": "http://www.nms-kittsee.at"
